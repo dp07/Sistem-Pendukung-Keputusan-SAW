@@ -20,8 +20,8 @@ include "head.php";
 
 			<!-- Hover rows datatable inside panel -->
 			<div class="panel panel-default">
-				<div class="panel-heading" align="right"><h6 class="panel-title"><i class="fa fa-bookmark"></i> Data Himpunan Kriteria</h6>
-				<a href="himpunan_tambah.php"><input type="submit" value="Tambah Himpunan" class="btn btn-success"></a>
+				<div class="panel-heading" align="right"><h6 class="panel-title"><i class="fa fa-bookmark"></i> Data Nilai Kriteria</h6>
+				<a href="himpunan_tambah.php"><input type="submit" value="Tambah Nilai Kriteria" class="btn btn-success"></a>
 				</div>
 				<div class="datatable">
 					<table class="table table-hover">

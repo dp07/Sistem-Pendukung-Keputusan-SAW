@@ -15,7 +15,7 @@
 			<!-- /page title -->
 
 			<!-- Right labels -->
-			<form class="form-horizontal" action="mahasiswa_tambah.php" method="post" role="form">
+			<form class="form-horizontal" action="calon_penerima_tambah.php" method="post" role="form">
                 <div class="panel panel-default">
                     <div class="panel-heading"><h6 class="panel-title">Calon Penerima Bantuan</h6></div>
                     <div class="panel-body">

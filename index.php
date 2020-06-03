@@ -13,7 +13,7 @@
 	<title>Login</title>
 </head>
 <body>
-<div class="navbar navbar-inverse navbar-fixed-top bg-warning" role="navigation">
+<div class="navbar navbar-inverse navbar-fixed-top bg-success" role="navigation">
         <div class="container-fluid">
             <div class="navbar-header">
                 
@@ -49,7 +49,7 @@ if (!empty($_GET['error'])) {
 }
 ?>
 				<form name="login" action="otentikasi.php" role="form" method="post">
-					<div class="panel panel-default bg-warning">
+					<div class="panel panel-default bg-success">
 						<div class="panel-heading bg-success"><h6 class="panel-title"><i class="fa fa-user"></i> Admin login</h6></div>
 						<div class="panel-body">
 							<div class="form-group has-feedback" align="left">
@@ -69,13 +69,13 @@ if (!empty($_GET['error'])) {
 								</div>
 
 								<div class="col-xs-6">
-									<button type="submit" class="btn btn-success pull-right"><i class="fa fa-sign-in"></i>Sign in</button>
+									<button type="submit" class="btn btn-default pull-right"><i class="fa fa-sign-in"></i>Sign in</button>
 								</div>
 							</div>
 						</div>
 					</div>
 				</form>
-				username :<b> admin<br></b>
+				username : <b>danypradana<br></b>
 				password : <b>admin</b>
 			</div>
 

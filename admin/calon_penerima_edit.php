@@ -23,7 +23,7 @@ $query = mysqli_query($konek,"SELECT * FROM penerima WHERE id_penerima='$id_pene
 $dataku = mysqli_fetch_array($query);
 ?>
 			<!-- Right labels -->
-			<form class="form-horizontal" action="mahasiswa_edit.php" method="post" role="form">
+			<form class="form-horizontal" action="calon_penerima_edit.php" method="post" role="form">
 				<div class="panel panel-default">
 					<div class="panel-heading"><h6 class="panel-title">Calon Beasiswa</h6></div>
 					<div class="panel-body">
@@ -66,7 +66,7 @@ if (isset($_POST['ubah'])) {
 	$query=mysqli_query($konek, "UPDATE penerima SET nama_penerima='$nama_penerima', asal='$asal' WHERE id_penerima='$id_penerima'") or die(mysql_error($konek));
 	if ($query) {
 		echo "<script>window.alert('Calon Penerima Beasiswa berhasil diubah');
-				window.location=(href='mahasiswa.php')</script>";
+				window.location=(href='calon_penerima.php')</script>";
 	}}
 ?>
 		<!-- /right labels -->

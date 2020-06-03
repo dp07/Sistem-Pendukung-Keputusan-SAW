@@ -17,7 +17,7 @@
             <!-- Right labels -->
             <form class="form-horizontal" action="analisa_hasil.php" method="post" role="form">
             	<div class="panel panel-default">
-            		<div class="panel-heading"><h6 class="panel-title"><i class="fa fa-pencil"></i> Analisa Penerimaan Beasiswa</h6></div>
+            		<div class="panel-heading"><h6 class="panel-title"><i class="fa fa-pencil"></i> Analisa Penerimaan Bantuan</h6></div>
             		<div class="panel-body">
             			
             			<div class="form-group">

@@ -20,7 +20,7 @@ include "head.php";
 			<!-- Hover rows datatable inside panel -->
 			<div class="panel panel-default">
 				<div class="panel-heading" align="right"><h6 class="panel-title"><i class="fa fa-bar-chart-o"></i> Data Kriteria</h6>
-				<a href="kriteria_tambah.php"><input type="submit" value="Tambah Kriteria" class="btn btn-info"></a>
+				<a href="kriteria_tambah.php"><input type="submit" value="Tambah Kriteria" class="btn btn-success"></a>
 				</div>
 				<div class="datatable">
 					<table class="table table-hover">

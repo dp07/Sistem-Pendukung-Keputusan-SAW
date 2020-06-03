@@ -25,17 +25,15 @@ include "head.php";
 						<div align="right"><span class="news_date" style="color: black;"><?php echo "[" .date("H:i:s") ."] ~ [" . date("d/M/Y"). "]"; ?></span></div> <br>
 						<hr>
 						<hr>
-						<font color="black" align="center"><h6>"Seleksi Pemberian Pada Masyarakat Kurang Mampu"</h6></font>
+						<font color="black" align="center"><h6>"Seleksi Pemberian Bantuan Pada Masyarakat Kurang Mampu"</h6></font>
 						<hr>
 						<hr>
 						<span class="news_date" style="text-align: center; color: black;">Simple Addictive Weighting Method (SAW)</span> <br>
 						<span class="news_text">
-						Metode SAW sering juga dikenal istilah metode penjumlahan terbobot.
-						Konsep dasar metode SAW adalah mencari penjumlahan terbobot dari rating kinerja pada setiap alternatif
-						pada semua atribut (Fishburn, 1967) (MacCrimmon,1968).
+						Metode SAW adalah Salah satu metode yang digunakan untuk menyelesaikan masalah dari Fuzzy Multiple Attribute Decision Making ( FMADM ) adalah metode Simple Additive Weighting (SAW) yaitu suatu metode yang digunakan untuk mencari alternatif optimal dari sejumlah alternatif dengan kriteria tertentu. Definisi metode Simple Additive Weighting (SAW) sering juga dikenal istilah metode penjumlahan terbobot. Konsep dasar metode SAW adalah mencari penjumlahan terbobot dari rating kinerja pada setiap alternatif pada semua atribut (Pahlevy. 2010)
 						</span><hr><hr>
 						<!-- <h5><i class='fa fa-user'></i>Nama : <?php echo "<font color='red'>["."$_SESSION[nama]"."]</font>"; ?></h5> -->
-						<h4><i class='fa fa-user'></i>Nama : <a href="">Dany Pradana</a></h5>
+						<h4><i class='fa fa-user'></i>Nama : <a href="https://github.com/dp07" target="_blank">Dany Pradana</a></h5>
 						<h4><i class='fa fa-dropbox'></i>NIM  : 4611417021</h4>
 						<!-- <br /><br /><br /><br /><br /><br /><br /><br /><br /> -->
 					</div>
@@ -44,50 +42,6 @@ include "head.php";
 				<br>
 				
 			</div>
-
-<!-- 
-			<div id="contenttext">
-				<span class="title_blue"><a class="navbar-brand-right" ><img src="../images/gambar.png" alt=""></a></span><br />
-				
-				
-				<div class="content" align="left">
-				<br />
-				<ul>
-				<h3><i class="fa fa-home"></i> Dalam Aplikasi Ini Terdapat Fitur-fitur sebagai berikut:</h3>
-					<ul>
-						<h4><i class="fa fa-users"></i> Mahasiswa</h4>
-							<ul>
-								<h6><i class='fa fa-plus'></i> Tambah Data Calon Beasiswa<br></h6>
-								<h6><i class='fa fa-edit'></i>Edit Data Mahasiswa<br></h6>
-								<h6><i class='fa fa-eraser'></i>Hapus Data</h6>
-							</ul>
-						
-						<h4><i class="fa fa-bar-chart-o"></i> Kriteria</h4>
-							<ul>
-								<h6><i class='fa fa-plus'></i> Tambah Data Kriteria <br></h6>
-								<h6><i class='fa fa-edit'></i> Edit Data Kriteria<br></h6>
-								<h6><i class='fa fa-eraser'></i> Hapus Data</h6>
-							</ul>
-						
-						<h4><i class="fa fa-bookmark"></i>Himpunan Kriteria</h4>
-							<ul>
-								<h6><i class='fa fa-plus'></i> Tambah Data Himpunan<br></h6>
-								<h6><i class='fa fa-edit'></i> Edit Data Himpunan Kriteria<br></h6>
-								<h6><i class='fa fa-eraser'></i> Hapus Data Himpunan</h6>
-							</ul>
-						<h4><i class="fa fa-tag"></i> Klasifikasi</h4>
-							<ul>
-								<h6><i class='fa fa-plus'></i> Tambah Klasifikasi</h6>
-							</ul>
-						<h4><i class="fa fa-pencil"></i>Analisa</h4>
-							<ul>
-								
-							</ul>
-					</ul>
-				</ul>
-				</div>
-				<br />
-			</div> -->
 
 			<br />
 			<br />
